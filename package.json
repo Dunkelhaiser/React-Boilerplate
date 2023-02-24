@@ -41,5 +41,8 @@
         "stylelint-scss": "^4.4.0",
         "typescript": "^4.9.3",
         "vite": "^4.1.0"
+    },
+    "bin": {
+        "create-react-boilerplate": "./generate-app.js"
     }
 }

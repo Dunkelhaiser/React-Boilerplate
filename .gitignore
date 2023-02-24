@@ -23,3 +23,5 @@ build
 *.sw?
 .eslintcache
 .stylelintcache
+
+generate-app.js
